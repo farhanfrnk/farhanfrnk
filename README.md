@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farhan Franaka</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15633275-Workspace/attachments/7424184?mode=media" >
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" >
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhanfrnk" alt="farhanfrnk" /></a> </p>
