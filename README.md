@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **farhanfranaka0505@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/CVfarhanfrnk](https://bit.ly/CVfarhanfrnk)
+- 📄 Know about my experiences [https://s.id/CVFrhn](https://s.id/CVFrhn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
