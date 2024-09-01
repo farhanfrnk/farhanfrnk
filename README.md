@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://skilldeck.me/frhnfrnk](https://skilldeck.me/frhnfrnk)
 
-- 📫 How to reach me **farhanfranaka0505@gmai.com**
+- 📫 How to reach me **farhanfranaka0505@gmail.com**
 
-- 📄 Know about my experiences [https://s.id/See_My_CV](https://s.id/See_My_CV)
+- 📄 Know about my experiences [Click to see my CV](https://s.id/CV_FF)
 
 <h1 align="center">Stats</h1>
 
