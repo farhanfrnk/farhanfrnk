@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **Golang, Javascript, and Python**
 
-- 👯 I’m looking to collaborate on **Golang Project**
+- 👯 I’m looking to collaborate on **Backend Project**
 
-- 👨‍💻 All of my projects are available at [https://skilldeck.me/frhnfrnk](https://skilldeck.me/frhnfrnk)
+- 👨‍💻 All of my projects are available at [My Website](https://www.frhnn.my.id/)
 
 - 📫 How to reach me **farhanfranaka0505@gmail.com**
-
-- 📄 Know about my experiences [Click to see my CV](https://s.id/CV_FF)
 
 <h1 align="center">Stats</h1>
 
